@@ -1,2 +1,1 @@
-Morje
-XXX
+print('Hello World!')
